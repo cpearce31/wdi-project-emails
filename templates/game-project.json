@@ -1,0 +1,211 @@
+{
+  "project": "game-project",
+  "developer": null,
+  "meets": null,
+  "requirements": {
+    "deployment": [
+      {
+        "spec": "Deploy on your public Github page, not Github Enterprise.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Present a working browser game, built by you, hosted and deployed on GitHub Pages.",
+        "fulfilled": true,
+        "comment": null
+      }
+    ],
+    "version-control": [
+      {
+        "spec": "Sharing your work through a git repository hosted on Github.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Making frequent, cohesive commits dating back to the first day of the project week.",
+        "fulfilled": true,
+        "comment:": null
+      }
+    ],
+    "documentation": [
+      {
+        "spec": "Pin your repository on GitHub as a Popular Repository. Make sure it has a description so that employers can see it.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Link to your hosted game in the URL section of your Github repo.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "List technologies used",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Document your planning and tell a story about your development process and problem-solving strategy.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": " List unsolved problems which would be fixed in future iterations.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Link to wireframes and user stories.",
+        "fulfilled": true,
+        "comment:": null
+      }
+    ],
+    "technical-specifications": [
+      {
+        "spec": "Use a custom game engine written by you.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Be a single-page application, no browser refresh.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Render a game board in the browser.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Switch turns between X and O (or whichever markers you select).  Tip:  Assume player X is the first player to start the game.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Visually display which side won if a player gets three in a row or show a draw if neither wins.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Support playing multiple games, one at a time.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Use jQuery for DOM manipulation and event handling.Use AJAX for interacting with a provided API.Create new games on the server. (CREATE)",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Use AJAX for interacting with a provided API.Create new games on the server. (CREATE)",
+        "fulfilled": true,
+        "comment:": null
+      }
+    ],
+    "api-specifications": [
+      {
+        "spec": "Create new games on the server. (CREATE)",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Update a game by storing new moves. (UPDATE)",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Visually display the results of retrieving game statistics, such as total games won by a user. (READ)",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Give feedback to the user after each action.",
+        "fulfilled": true,
+        "comment:": null
+      }
+    ],
+    "auth-specifications": [
+      {
+        "spec": "Signup with email, password, and password confirmation.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Login with email and password.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Logout when logged in.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Change password with current and new password.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Give feedback to the user after each action's success or failure.",
+        "fulfilled": true,
+        "comment:": null
+      }
+    ],
+    "do-not": [
+      {
+        "spec": "Delete your repository at any time or start over.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": " Rely on refreshing the page for any functionality.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Have any user-facing bugs.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Display non-functional buttons, nor buttons that do not successfully complete a task.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Show actions at inappropriate times (example: sign out button when not signed in).",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Allow the same game to be played after a player has won or tied.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Allow players to move in the same square more than once.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Change players when an invalid move is made.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Use alerts for anything.Display errors or warnings in the console.Display debugging messages in the console.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Display errors or warnings in the console.Display debugging messages in the console.",
+        "fulfilled": true,
+        "comment:": null
+      },
+      {
+        "spec": "Display debugging messages in the console.",
+        "fulfilled": true,
+        "comment:": null
+      }
+    ]
+  }
+}
